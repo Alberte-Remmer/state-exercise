@@ -9,7 +9,7 @@ import { useState } from "react";
 export default function UseStateExercise() {
   // TODO for studerende: Opret en state variabel til at gemme teksten
   // Hint: const [tekst, setTekst] = useState('Velkommen!')
-  const [tekst, setTekst] = useState("Velkommen!");
+  const [tekst, setTekst] = useState("Velkommen fede røv!");
 
   // Velkommen! Er den midlertidige værdi, der skal erstattes med state!
   // const tekst = "Velkommen!";
